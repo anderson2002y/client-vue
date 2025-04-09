@@ -1,12 +1,35 @@
 {
   "clientes": [
     {
-      "id": 1,
+      "id": "1",
       "nombre": "Anderson"
     },
     {
-      "id": 2,
+      "id": "2",
       "nombre": "David"
+    },
+    {
+      "id": "de69",
+      "nombre": "Anderson",
+      "apellido": "Sanchez",
+      "email": "anderson.sanchez64u@std.uni.edu.ni",
+      "telefono": "7715-3823"
+    },
+    {
+      "id": "0700",
+      "nombre": "Dentista",
+      "apellido": "q",
+      "email": "correo@coreo.com",
+      "telefono": "7715-3823",
+      "empresa": "Pipianes Anderson",
+      "puesto": "CEO"
+    },
+    {
+      "id": "5c2d",
+      "nombre": "Anderson",
+      "apellido": "David",
+      "email": "correo@coreo.com",
+      "telefono": "7715-3823"
     }
   ]
 }
