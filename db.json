@@ -1,19 +1,12 @@
 {
   "clientes": [
     {
-      "id": "1",
-      "nombre": "Anderson"
-    },
-    {
-      "id": "2",
-      "nombre": "David"
-    },
-    {
       "id": "de69",
       "nombre": "Anderson",
       "apellido": "Sanchez",
       "email": "anderson.sanchez64u@std.uni.edu.ni",
-      "telefono": "7715-3823"
+      "telefono": "7715-3823",
+      "estado": 1
     },
     {
       "id": "0700",
@@ -22,14 +15,16 @@
       "email": "correo@coreo.com",
       "telefono": "7715-3823",
       "empresa": "Pipianes Anderson",
-      "puesto": "CEO"
+      "puesto": "CEO",
+      "estado": 1
     },
     {
       "id": "5c2d",
       "nombre": "Anderson",
       "apellido": "David",
       "email": "correo@coreo.com",
-      "telefono": "7715-3823"
+      "telefono": "7715-3823",
+      "estado": 0
     }
   ]
 }
