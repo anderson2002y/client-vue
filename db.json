@@ -9,24 +9,6 @@
       "puesto": "CEO",
       "estado": true,
       "id": "3"
-    },
-    {
-      "nombre": "Dentista",
-      "apellido": "David",
-      "email": "correo@coreo.com",
-      "telefono": "7715-3823",
-      "empresa": "Pipianes Anderson",
-      "puesto": "CEO",
-      "id": "2",
-      "estado": true
-    },
-    {
-      "id": "1",
-      "nombre": "Anderson",
-      "apellido": "David",
-      "email": "correo@coreo.com",
-      "telefono": "7715-3823",
-      "estado": true
     }
   ]
 }
