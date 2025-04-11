@@ -7,7 +7,7 @@
       "telefono": "7715-3823",
       "empresa": "Variedades Angelica",
       "puesto": "CEO",
-      "estado": 1,
+      "estado": true,
       "id": "3"
     },
     {
@@ -17,7 +17,8 @@
       "telefono": "7715-3823",
       "empresa": "Pipianes Anderson",
       "puesto": "CEO",
-      "id": "2"
+      "id": "2",
+      "estado": true
     },
     {
       "id": "1",
@@ -25,7 +26,7 @@
       "apellido": "David",
       "email": "correo@coreo.com",
       "telefono": "7715-3823",
-      "estado": 0
+      "estado": true
     }
   ]
 }
