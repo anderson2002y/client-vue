@@ -1,25 +1,26 @@
 {
   "clientes": [
     {
-      "id": "de69",
       "nombre": "Anderson",
-      "apellido": "Sanchez",
+      "apellido": "Sánchez",
       "email": "anderson.sanchez64u@std.uni.edu.ni",
       "telefono": "7715-3823",
-      "estado": 1
+      "empresa": "Variedades Angelica",
+      "puesto": "CEO",
+      "estado": 1,
+      "id": "3"
     },
     {
-      "id": "0700",
       "nombre": "Dentista",
-      "apellido": "q",
+      "apellido": "David",
       "email": "correo@coreo.com",
       "telefono": "7715-3823",
       "empresa": "Pipianes Anderson",
       "puesto": "CEO",
-      "estado": 1
+      "id": "2"
     },
     {
-      "id": "5c2d",
+      "id": "1",
       "nombre": "Anderson",
       "apellido": "David",
       "email": "correo@coreo.com",
