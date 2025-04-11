@@ -39,6 +39,7 @@ cd crm-vue
 
 ```bash
 npm install
+```
 
 3. **Start the development server:**
 
